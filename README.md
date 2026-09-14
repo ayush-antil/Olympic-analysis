@@ -275,33 +275,68 @@ Therefore, sport-level win rates should always be interpreted alongside particip
 
 ---
 
+
+```markdown
+---
+
 ## Project Workflow
 
+**Data Loading**  
+↓  
+**Data Inspection**  
+↓  
+**Missing-Value Analysis**  
+↓  
+**Data Cleaning**  
+↓  
+**Feature Engineering**  
+↓  
+**Medal Win Rate Analysis**  
+↓  
+**Gender & Age Analysis**  
+↓  
+**Country Performance Analysis**  
+↓  
+**Participation Trends**  
+↓  
+**Athlete Physical Profile Analysis**  
+↓  
+**BMI vs. Medal Success**  
+↓  
+**Summer vs. Winter Analysis**  
+↓  
+**Athlete-Level Medal Analysis**  
+↓  
+**Insights & Conclusions**
+
+---
+
+## Run the Project
+
+The complete analysis is available as a Google Colab notebook.
+
+### Open in Google Colab
+
+Click the **Open in Colab** button at the top of this README to open the notebook.
+
+Alternatively, use the link below:
+
+**[Open Olympic Analysis in Google Colab](https://colab.research.google.com/drive/1YrlnxsJ62Pgyt0AJmW1bIgrk3qpK3yA4)**
+
+### How to Run
+
+1. Open the notebook in Google Colab.
+2. The required `athlete_events.csv` dataset is downloaded automatically during notebook execution.
+3. Select **Runtime → Run all**.
+4. Wait for all cells to finish executing.
+5. Explore the visualizations, analysis, findings, and conclusions.
+
+No manual dataset upload is required.
+
+---
+
+## Project Structure
+
 ```text
-Data Loading
-     ↓
-Data Inspection
-     ↓
-Missing-Value Analysis
-     ↓
-Data Cleaning
-     ↓
-Feature Engineering
-     ↓
-Medal Win Rate Analysis
-     ↓
-Gender & Age Analysis
-     ↓
-Country Performance Analysis
-     ↓
-Participation Trends
-     ↓
-Athlete Physical Profile Analysis
-     ↓
-BMI vs. Medal Success
-     ↓
-Summer vs. Winter Analysis
-     ↓
-Athlete-Level Medal Analysis
-     ↓
-Insights & Conclusions
+├── README.md
+└── Olympic Analysis.ipynb
