@@ -215,9 +215,3 @@ No manual dataset upload is required.
 - Data Aggregation
 
 ---
-
-## Project Author
-
-**Ayush Antil**
-
-Data Science | Python | SQL | Machine Learning | Data Analytics
