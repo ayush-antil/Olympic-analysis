@@ -28,7 +28,7 @@ The analysis focuses on using data exploration, feature engineering, aggregation
 
 ## Key Questions
 
-This analysis focuses on questions such as:
+This analysis focuses on questions such as: 
 
 - How has Olympic participation changed over time?
 - Which countries have achieved the highest medal success?
