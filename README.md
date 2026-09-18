@@ -10,7 +10,7 @@ The analysis explores long-term trends in Olympic participation, athlete demogra
 
 ---
 
-## Business Problem
+## Business Problem 
 
 The objective of this project is to transform historical Olympic data into meaningful insights by identifying patterns in:
 
