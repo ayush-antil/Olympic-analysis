@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YrlnxsJ62Pgyt0AJmW1bIgrk3qpK3yA4)
 
-## Project Overview
+## Project Overview 
 
 This project analyzes **271,116 athlete-event records** from the Olympic Games between **1896 and 2016**, covering both Summer and Winter Olympics.
 
